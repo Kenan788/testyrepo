@@ -1,2 +1,2 @@
-#Display the output
-print ("first")
+codn#Display the output
+print ("second")
